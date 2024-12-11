@@ -21,7 +21,7 @@ venv
 # Other
 .DS_Store
 wandb
-output
+outputs
 
 checkpoints
 ckpts*
